@@ -1,0 +1,19 @@
+<resources>
+    <string name = "app_name"> PlayingWithBeacons </string>
+    <string name = "start_button_text"> START </string>
+    <string name = "stop_button_text"> STOP </string>
+    <string name = "location_access_needed"> This application needs access to the location </string>
+    <string name = "grant_location_access"> Please grant localization permissions so that the application can detect beacons </string>
+    <string name = "not_support_bluetooth_msg"> This device does not support bluetooth, it is not possible to search for beacons </string>
+    <string name = "cancel_button_text"> Cancel </string>
+    <string name = "location_disabled"> High precision mode location not enabled </string>
+    <string name = "location_settings"> Open location settings </string>
+    <string name = "location_not_granted"> Since the location permission has not been granted, </string>
+    <string name = "cannot_discover_beacons"> this application will not be able to search for beacons </string>
+    <string name = "functionality_limited"> Limited functionality </string>
+    <string name = "no_bluetooth_msg"> With bluetooth disabled it is not possible to search for beacons </string>
+    <string name = "start_looking_for_beacons"> Starting to search for beacons </string>
+    <string name = "stop_looking_for_beacons"> Stopping searching for beacons </string>
+    <string name = "no_beacons_detected"> No beacons found </string>
+    <string name = "beacon_detected"> Offer number% 1 $ s detected !! </string>
+</resources>
